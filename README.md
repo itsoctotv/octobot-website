@@ -1,2 +1,2 @@
-# octobot
-a discord bot made by octoTV#2617
+# octobot-website
+for more information visit: https://itsoctotv.com/octobot.html
