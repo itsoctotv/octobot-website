@@ -1,2 +1,2 @@
 # octobot-website
-for more information visit: https://octobot.octocodes.dev
+for more information visit: https://bot.octocodes.dev
